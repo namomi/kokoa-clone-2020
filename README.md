@@ -1,3 +1,3 @@
-<a href="index.htm"># Koka Clone 2020 Update</a>
+# Koka Clone 2020 Update
 
 HTML \$ CSS are so mush fun!
